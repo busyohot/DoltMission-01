@@ -17,7 +17,7 @@ public class MainActivity extends ActionBarActivity {
     ScrollView scrollView2;
     ImageView imageView1;
     ImageView imageView2;
-    int indexImage = 0; //////0 은 위에 그림을, 1은 아래에 그림을,
+    int indexImage = 0; //0 은 위에 그림을, 1은 아래에 그림을,
     BitmapDrawable bitmap;
 
     @Override
